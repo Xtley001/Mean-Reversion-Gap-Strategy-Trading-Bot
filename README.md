@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For support, bug reports, or feature requests:
-- 📧 Email: olubelachristley"gmail.com
+- 📧 Email: olubelachristleygmail.com
 - 🐛 GitHub Issues: [Open an issue](https://github.com/yourusername/mean-reversion-prop-firm-ea/issues)
 
 ---
