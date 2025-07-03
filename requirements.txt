@@ -1,0 +1,6 @@
+# requirements.txt
+MetaTrader5
+pandas
+numpy
+pytz
+python-dotenv
